@@ -7,56 +7,56 @@ logs, as well as tools to archive RFC 6962 and Static CT logs.
 
 | Log Origin | Archive Location |
 |------------|------------------|
-| ct.cloudflare.com/logs/nimbus2022 | https://archive.org/details/ct_cloudflare_nimbus2022 [^noissuer] |
-| ct.cloudflare.com/logs/nimbus2023 | https://archive.org/details/ct_cloudflare_nimbus2023 [^noissuer] |
-| ct.cloudflare.com/logs/nimbus2024 | https://archive.org/details/ct_cloudflare_nimbus2024 [^noissuer] |
-| ct1.digicert-ct.com/log | https://archive.org/details/ct_digicert_ct1 [^noissuer] |
-| ct2.digicert-ct.com/log | https://archive.org/details/ct_digicert_ct2 [^noissuer] |
-| yeti2018.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2018 [^noissuer] |
-| yeti2019.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2019 [^noissuer] |
-| yeti2020.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2020 [^noissuer] |
-| yeti2021.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2021 [^noissuer] |
-| yeti2022.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2022 [^noissuer] |
-| yeti2022-2.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2022_2 [^noissuer] |
-| yeti2023.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2023 [^noissuer] |
-| nessie2018.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2018 [^noissuer] |
-| nessie2019.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2019 [^noissuer] |
-| nessie2020.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2020 [^noissuer] |
-| nessie2021.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2021 [^noissuer] |
-| nessie2022.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2022 [^noissuer] |
-| nessie2023.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2023 [^noissuer] |
+| ct.cloudflare.com/logs/nimbus2022 | https://archive.org/details/ct_cloudflare_nimbus2022 † |
+| ct.cloudflare.com/logs/nimbus2023 | https://archive.org/details/ct_cloudflare_nimbus2023 † |
+| ct.cloudflare.com/logs/nimbus2024 | https://archive.org/details/ct_cloudflare_nimbus2024 † |
+| ct1.digicert-ct.com/log | https://archive.org/details/ct_digicert_ct1 † |
+| ct2.digicert-ct.com/log | https://archive.org/details/ct_digicert_ct2 † |
+| yeti2018.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2018 † |
+| yeti2019.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2019 † |
+| yeti2020.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2020 † |
+| yeti2021.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2021 † |
+| yeti2022.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2022 † |
+| yeti2022-2.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2022_2 † |
+| yeti2023.ct.digicert.com/log | https://archive.org/details/ct_digicert_yeti2023 † |
+| nessie2018.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2018 † |
+| nessie2019.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2019 † |
+| nessie2020.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2020 † |
+| nessie2021.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2021 † |
+| nessie2022.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2022 † |
+| nessie2023.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2023 † |
 | sphinx.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_sphinx2024h1 |
 | sphinx.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_sphinx2024h2 |
 | wyvern.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_wyvern2024h1 [WIP] |
 | wyvern.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_wyvern2024h2 [WIP] |
-| ct.ws.symantec.com | https://archive.org/details/ct_symantec_ct [^noissuer] |
-| vega.ws.symantec.com | https://archive.org/details/ct_symantec_vega [^noissuer] |
-| sirius.ws.symantec.com | https://archive.org/details/ct_symantec_sirius [^noissuer] |
-| ctlog-gen2.api.venafi.com | https://archive.org/details/ct_venafi_ctlog_gen2 [^noissuer] |
-| oak.ct.letsencrypt.org/2019 | https://archive.org/details/ct_letsencrypt_oak2019 [^noissuer] |
-| oak.ct.letsencrypt.org/2020 | https://archive.org/details/ct_letsencrypt_oak2020 [^noissuer] |
-| oak.ct.letsencrypt.org/2021 | https://archive.org/details/ct_letsencrypt_oak2021 [^noissuer] |
-| oak.ct.letsencrypt.org/2022 | https://archive.org/details/ct_letsencrypt_oak2022 [^noissuer] |
-| oak.ct.letsencrypt.org/2023 | https://archive.org/details/ct_letsencrypt_oak2023 [^noissuer] |
-| sabre.ct.comodo.com | https://archive.org/details/ct_comodo_sabre [^noissuer] |
-| mammoth.ct.comodo.com | https://archive.org/details/ct_comodo_mammoth [^noissuer] |
+| ct.ws.symantec.com | https://archive.org/details/ct_symantec_ct † |
+| vega.ws.symantec.com | https://archive.org/details/ct_symantec_vega † |
+| sirius.ws.symantec.com | https://archive.org/details/ct_symantec_sirius † |
+| ctlog-gen2.api.venafi.com | https://archive.org/details/ct_venafi_ctlog_gen2 † |
+| oak.ct.letsencrypt.org/2019 | https://archive.org/details/ct_letsencrypt_oak2019 † |
+| oak.ct.letsencrypt.org/2020 | https://archive.org/details/ct_letsencrypt_oak2020 † |
+| oak.ct.letsencrypt.org/2021 | https://archive.org/details/ct_letsencrypt_oak2021 † |
+| oak.ct.letsencrypt.org/2022 | https://archive.org/details/ct_letsencrypt_oak2022 † |
+| oak.ct.letsencrypt.org/2023 | https://archive.org/details/ct_letsencrypt_oak2023 † |
+| sabre.ct.comodo.com | https://archive.org/details/ct_comodo_sabre † |
+| mammoth.ct.comodo.com | https://archive.org/details/ct_comodo_mammoth † |
 | mammoth2024h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2024h1 |
 | mammoth2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2024h2 [WIP] |
 | mammoth2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2025h2 |
-| mammoth2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h1 [^noissuer] |
-| mammoth2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h2 [^noissuer] |
+| mammoth2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h1 † |
+| mammoth2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h2 † |
 | sabre2024h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h1 |
 | sabre2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h2 [WIP] |
 | sabre2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2025h2 [WIP] |
-| sabre2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h1 [^noissuer] |
-| sabre2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h2 [^noissuer] |
+| sabre2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h1 † |
+| sabre2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h2 † |
 | halloumi2026h2.log.ct.ipng.ch | https://ct.ipng.ch/archive/halloumi2026h2/ |
+
+† *These logs were mistakenly archived without the `issuer/` directory.*
 
 If you archive a log, please submit a pull request to add it to this table.
 
 A very comprehensive list of CT logs can be found at https://sslmate.com/app/ctlogs.
-
-[^noissuer]: These logs were mistakenly archived without the `issuer/` directory.
 
 ## Archival Format
 
