@@ -36,11 +36,6 @@ https://ct.googleapis.com/logs/us1/mirrors/sectigo_sabre2024h2 https://sabre2024
 https://ct.googleapis.com/logs/us1/mirrors/digicert_sphinx2024h1 // done
 https://ct.googleapis.com/logs/us1/mirrors/digicert_sphinx2024h2 // done
 
-https://oak.ct.letsencrypt.org/2025h1/ letsencrypt_oak2025h1
-https://oak.ct.letsencrypt.org/2025h2/ letsencrypt_oak2025h2
-https://oak.ct.letsencrypt.org/2026h1/ letsencrypt_oak2026h1
-https://oak.ct.letsencrypt.org/2026h2/ letsencrypt_oak2026h2
-
 https://yeti2025.ct.digicert.com/log/ digicert_yeti2025
 https://nessie2025.ct.digicert.com/log/ digicert_nessie2025
 https://wyvern.ct.digicert.com/2025h1/ digicert_wyvern2025h1
@@ -53,6 +48,7 @@ https://sabre2025h2.ct.sectigo.com/ sectigo_sabre2025h2      // downloading
 https://sabre2026h1.ct.sectigo.com/ sectigo_sabre2026h1      // done
 https://sabre2026h2.ct.sectigo.com/ sectigo_sabre2026h2      // done
 
+// Missing
 cloudflare_nimbus2018   https://ct.cloudflare.com/logs/nimbus2018/
 cloudflare_nimbus2019   https://ct.cloudflare.com/logs/nimbus2019/
 cloudflare_nimbus2020   https://ct.cloudflare.com/logs/nimbus2020/

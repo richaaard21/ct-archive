@@ -1,28 +1,4 @@
-// Google
-https://ct.googleapis.com/logs/argon2017/
-https://ct.googleapis.com/logs/argon2018/
-https://ct.googleapis.com/logs/argon2019/
-https://ct.googleapis.com/logs/argon2020/
-https://ct.googleapis.com/logs/argon2021/
-https://ct.googleapis.com/logs/argon2022/
-https://ct.googleapis.com/logs/argon2023/
-https://ct.googleapis.com/logs/us1/argon2024/
-https://ct.googleapis.com/logs/us1/argon2025h1/
-https://ct.googleapis.com/logs/xenon2018/
-https://ct.googleapis.com/logs/xenon2019/
-https://ct.googleapis.com/logs/xenon2020/
-https://ct.googleapis.com/logs/xenon2021/
-https://ct.googleapis.com/logs/xenon2022/
-https://ct.googleapis.com/logs/xenon2023/
-https://ct.googleapis.com/logs/eu1/xenon2024/
-https://ct.googleapis.com/logs/eu1/xenon2025h1/
-https://ct.googleapis.com/aviator/
-https://ct.googleapis.com/icarus/
-https://ct.googleapis.com/pilot/
-https://ct.googleapis.com/rocketeer/
-https://ct.googleapis.com/skydiver/
-
-// Mirrored
+// Mirrored by Google
 https://ct.cloudflare.com/logs/nimbus2022/
 https://ct.cloudflare.com/logs/nimbus2023/
 https://ct.cloudflare.com/logs/nimbus2024/
@@ -62,6 +38,28 @@ https://wyvern.ct.digicert.com/2024h1/
 https://wyvern.ct.digicert.com/2024h2/
 
 // Still live
+https://ct.googleapis.com/logs/argon2017/
+https://ct.googleapis.com/logs/argon2018/
+https://ct.googleapis.com/logs/argon2019/
+https://ct.googleapis.com/logs/argon2020/
+https://ct.googleapis.com/logs/argon2021/
+https://ct.googleapis.com/logs/argon2022/
+https://ct.googleapis.com/logs/argon2023/
+https://ct.googleapis.com/logs/us1/argon2024/
+https://ct.googleapis.com/logs/us1/argon2025h1/
+https://ct.googleapis.com/logs/xenon2018/
+https://ct.googleapis.com/logs/xenon2019/
+https://ct.googleapis.com/logs/xenon2020/
+https://ct.googleapis.com/logs/xenon2021/
+https://ct.googleapis.com/logs/xenon2022/
+https://ct.googleapis.com/logs/xenon2023/
+https://ct.googleapis.com/logs/eu1/xenon2024/
+https://ct.googleapis.com/logs/eu1/xenon2025h1/
+https://ct.googleapis.com/aviator/
+https://ct.googleapis.com/icarus/
+https://ct.googleapis.com/pilot/
+https://ct.googleapis.com/rocketeer/
+https://ct.googleapis.com/skydiver/
 https://yeti2025.ct.digicert.com/log/
 https://nessie2025.ct.digicert.com/log/
 https://ct2024.trustasia.com/log2024/
