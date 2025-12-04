@@ -10,6 +10,8 @@ https://ct.googleapis.com/logs/eu1/mirrors/letsencrypt_oak2020 // done
 https://ct.googleapis.com/logs/eu1/mirrors/letsencrypt_oak2021 // done
 https://ct.googleapis.com/logs/eu1/mirrors/letsencrypt_oak2022 // done
 https://ct.googleapis.com/logs/eu1/mirrors/letsencrypt_oak2023 // done
+https://ct.googleapis.com/logs/eu1/mirrors/digicert_wyvern2024h1 // done (direct)
+https://ct.googleapis.com/logs/eu1/mirrors/digicert_wyvern2024h2 // done
 https://ct.googleapis.com/logs/us1/mirrors/cloudflare_nimbus2022 // done
 https://ct.googleapis.com/logs/us1/mirrors/cloudflare_nimbus2023 // done
 https://ct.googleapis.com/logs/us1/mirrors/cloudflare_nimbus2024 // done
@@ -34,13 +36,12 @@ https://ct.googleapis.com/logs/us1/mirrors/sectigo_sabre2024h2   // done
 https://ct.googleapis.com/logs/us1/mirrors/digicert_sphinx2024h1 // done
 https://ct.googleapis.com/logs/us1/mirrors/digicert_sphinx2024h2 // done
 
-https://wyvern.ct.digicert.com/2024h1/  digicert_wyvern2024h1      50541
-https://wyvern.ct.digicert.com/2024h2/  digicert_wyvern2024h2   30255475
-https://ct2024.trustasia.com/log2024/   trustasia_log2024       76472679
+https://wyvern.ct.digicert.com/2024h1/  digicert_wyvern2024h1  // done
+https://ct2024.trustasia.com/log2024/   trustasia_log2024      // downloading
 https://wyvern.ct.digicert.com/2025h1/  digicert_wyvern2025h1  276121828
 https://sphinx.ct.digicert.com/2025h1/  digicert_sphinx2025h1  275557396
 https://nessie2025.ct.digicert.com/log/ digicert_nessie2025    881954985
-https://yeti2025.ct.digicert.com/log/   digicert_yeti2025     1967320888
+https://yeti2025.ct.digicert.com/log/   digicert_yeti2025      1967320888
 https://mammoth2025h2.ct.sectigo.com/   sectigo_mammoth2025h2  // done
 https://mammoth2026h1.ct.sectigo.com/   sectigo_mammoth2026h1  // done
 https://mammoth2026h2.ct.sectigo.com/   sectigo_mammoth2026h2  // done

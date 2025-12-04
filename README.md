@@ -27,8 +27,8 @@ logs, as well as tools to archive RFC 6962 and Static CT logs.
 | nessie2023.ct.digicert.com/log | https://archive.org/details/ct_digicert_nessie2023 † |
 | sphinx.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_sphinx2024h1 |
 | sphinx.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_sphinx2024h2 |
-| wyvern.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_wyvern2024h1 [WIP] |
-| wyvern.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_wyvern2024h2 [WIP] |
+| wyvern.ct.digicert.com/2024h1 | https://archive.org/details/ct_digicert_wyvern2024h1 |
+| wyvern.ct.digicert.com/2024h2 | https://archive.org/details/ct_digicert_wyvern2024h2 |
 | ct.ws.symantec.com | https://archive.org/details/ct_symantec_ct † |
 | vega.ws.symantec.com | https://archive.org/details/ct_symantec_vega † |
 | sirius.ws.symantec.com | https://archive.org/details/ct_symantec_sirius † |
@@ -50,6 +50,7 @@ logs, as well as tools to archive RFC 6962 and Static CT logs.
 | sabre2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2025h2 [WIP] |
 | sabre2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h1 † |
 | sabre2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h2 † |
+| ct2024.trustasia.com/log2024 | https://archive.org/details/ct_trustasia_log2024 [WIP] |
 | halloumi2026h2.log.ct.ipng.ch | https://ct.ipng.ch/archive/halloumi2026h2/ |
 
 † *These logs were mistakenly archived without the `issuer/` directory.*
