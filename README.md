@@ -41,12 +41,12 @@ logs, as well as tools to archive RFC 6962 and Static CT logs.
 | sabre.ct.comodo.com | https://archive.org/details/ct_comodo_sabre † |
 | mammoth.ct.comodo.com | https://archive.org/details/ct_comodo_mammoth † |
 | mammoth2024h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2024h1 |
-| mammoth2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2024h2 [WIP] |
+| mammoth2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2024h2 |
 | mammoth2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2025h2 |
 | mammoth2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h1 † |
 | mammoth2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_mammoth2026h2 † |
 | sabre2024h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h1 |
-| sabre2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h2 [WIP] |
+| sabre2024h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2024h2 |
 | sabre2025h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2025h2 [WIP] |
 | sabre2026h1.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h1 † |
 | sabre2026h2.ct.sectigo.com | https://archive.org/details/ct_sectigo_sabre2026h2 † |
