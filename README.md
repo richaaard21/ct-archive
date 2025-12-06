@@ -88,9 +88,19 @@ self-verifying:
 * `tile/{0,1,2}/*.p/*` — partial tiles on the right edge of the tree, if any,
   necessary to compute the tree head
 
-[sunlight.ReadTileLeafMaybeArchival]: https://pkg.go.dev/filippo.io/sunlight@v0.6.4-0.20251203100209-1d019a3fb1ac#ReadTileLeafMaybeArchival
+[sunlight.ReadTileLeafMaybeArchival]: https://pkg.go.dev/filippo.io/sunlight@v0.6.4-0.20251206201658-6074c64f2bb8#ReadTileLeafMaybeArchival
 [c2sp.org/static-ct-api@v1.0.0]: https://c2sp.org/static-ct-api@v1.0.0
 [c2sp.org/tlog-checkpoint]: https://c2sp.org/tlog-checkpoint
+
+[filippo.io/sunlight.Client][] can be used with a `archive+file://` URL to read
+these logs directly from the zip archives, or with a `file://` URL to read the
+unpacked Static CT log. You may need to set `ClientConfig.AllowRFC6962ArchivalLeafs`.
+
+Alternatively, [filippo.io/torchwood.TileArchiveFS][] can be used to read files
+directly from the zip archives.
+
+[filippo.io/sunlight.Client]: https://pkg.go.dev/filippo.io/sunlight@v0.6.4-0.20251206201658-6074c64f2bb8#Client
+[filippo.io/torchwood.TileArchiveFS]: https://pkg.go.dev/filippo.io/torchwood#TileArchiveFS
 
 ## Tools
 
